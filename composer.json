@@ -1,0 +1,17 @@
+{
+    "name": "home/recscript",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Home\\Recscript\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "anonymous"
+        }
+    ],
+    "require": {
+        "danog/madelineproto": "^8.4"
+    }
+}
